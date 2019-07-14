@@ -2,12 +2,12 @@
 title: "My Article SSD"
 summary: "ssd算法在目标检测中有着相当重要的地位，是典型的single shot detection models"
 date: 2019-07-14T17:28:02+08:00
-draft: false
+#draft: false
 tags:["ssd", "detection"]
 categories:["AI"]
-view: 2
+#view: 2
 header:
-  caption: "SSD目标检测详解"
+#  caption: "SSD目标检测详解"
   image: "SSD.png"
 ---
 
