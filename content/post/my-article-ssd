@@ -1,0 +1,12 @@
+---
+title: "My Article Ssd"
+date: 2019-07-14T19:34:50+08:00
+#draft: false
+tags:["ssd", "detection"]
+categories:["AI"]
+#view: 2
+header:
+#  caption: "SSD目标检测详解"
+  image: "SSD.png"
+---
+flkmlm
