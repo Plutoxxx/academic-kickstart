@@ -1,3 +1,4 @@
++++
 ---
 title: "My Article SSD"
 summary: "ssd算法在目标检测中有着相当重要的地位，是典型的single shot detection models"
@@ -12,3 +13,5 @@ header:
 ---
 
 flkmlm
+
++++
