@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: 杨挺
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 研究生
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 江南大学
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 深度学习
+- 目标检测
+- 姿态估计
 
 education:
   courses:
