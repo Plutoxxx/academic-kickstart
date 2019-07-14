@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: Control engineering
     institution: Jiangnan University
     year: 2018
 #  - course: MEng in Artificial Intelligence
