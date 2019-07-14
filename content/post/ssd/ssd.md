@@ -9,7 +9,7 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 image:
-  focal_point: "Smart"
+  focal_point: "Center"
   preview_only: false
 header:
   caption: ""

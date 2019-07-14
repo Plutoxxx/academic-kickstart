@@ -9,9 +9,7 @@ weight = 60  # Order that this section will appear.
 
 title = "Recent Posts"
 subtitle = ""
-image:
-  focal_point: "Center"
-  preview_only: false
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"
