@@ -14,6 +14,7 @@ image:
 header:
   caption: ""
   image: ""
+featured: true
 ---
 ### SSD算法流程：
 1.输入一幅图片，让图片经过卷积神经网络提取特征，并生成feature map.
