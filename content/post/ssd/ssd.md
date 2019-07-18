@@ -8,10 +8,10 @@ summary: ssd是典型的Single Shot MultiBox Detector，运行速度与Faster R-
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-featured: true
-#image:
-#  focal_point: "Center"
-#  preview_only: false
+#featured: true
+image:
+  caption: ""
+  focal_point: ""
 header:
   caption: ""
   image: ""
