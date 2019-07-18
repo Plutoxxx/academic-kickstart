@@ -10,8 +10,10 @@ view: 2
 # Optional header image (relative to `static/img/` folder).
 featured: false
 image:
+  placement: 2
   caption: ""
   focal_point: ""
+projects: []
 #header:
 #  caption: ""
 #  image: ""
